@@ -4,6 +4,8 @@
 
 
 - 🔭 Atualmente: Sou estudante universitário na área de TI
+- 🎉 Idade: 20
+- 🚩 Localidade: Rio de Janeiro
 - 🌱 Estudando: Python e C
 - 👯 Procuro: Estágio
 - 📫 Contate-me no e-mail: alison.sxuzx@gmail.com
